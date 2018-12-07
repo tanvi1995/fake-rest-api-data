@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "Samsung",
+      "name": "Galaxy S5",
+      "price": "$649.99",
+	  "image": "p1.jpg",
+      "features": {
+		"memory":"32gb",
+        "ram": "2GB ram",
+        "ScreenQuality": "1080HD",
+        "size": "5.1 inches",
+		"version": "Android"
+      }
+    },
+    {
+      "id": "Apple",
+      "name": "Iphone X",
+      "price": "$953.99",
+	  "image": "p4.jpg",
+      "features": {
+		"memory":"32gb",
+        "ram": "4GB ram",
+        "ScreenQuality": "1080HD",
+        "size": "6.1 inches",
+		"version": "ios 11"
+      }
+    },
+    {
+      "id": "Blackberry",
+      "name": "Blackberry",
+      "price": "$658.99",
+	  "image": "p5.jpg",
+      "features": {
+		"memory":"64gb",
+        "ram": "8GB ram",
+        "ScreenQuality": "1080HD",
+        "size": "5.1 inches",
+		"version": "Android"
+      }
+    }
+  ]
+}
